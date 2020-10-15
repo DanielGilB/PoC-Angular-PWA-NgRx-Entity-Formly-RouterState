@@ -1,0 +1,150 @@
+{
+  "configVersion": 1,
+  "timestamp": 1602762334008,
+  "index": "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/1-es2015.e1c16c178d755bcbfbb7.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/1-es5.e1c16c178d755bcbfbb7.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/6-es2015.9f5db024f18614ff51e8.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/6-es5.9f5db024f18614ff51e8.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/7-es2015.3a96c2a1f11ad1a960ac.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/7-es5.3a96c2a1f11ad1a960ac.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/8-es2015.49d24c3d7bf0a43c8dfa.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/8-es5.49d24c3d7bf0a43c8dfa.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/9-es2015.ab9a6bf4e435047d4aed.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/9-es5.ab9a6bf4e435047d4aed.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/favicon.ico",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/index.html",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/main-es2015.41706262c23aa87354dd.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/main-es5.41706262c23aa87354dd.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/manifest.webmanifest",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/polyfills-es2015.698ed6332ccbe18312cf.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/polyfills-es5.1249c73096b30258d98f.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/runtime-es2015.f4481762a578f3eb130c.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/runtime-es5.f4481762a578f3eb130c.js",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/styles.1d69dd4bd938666bfd93.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.eot",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.svg",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.ttf",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.woff",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.woff2",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.eot",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.svg",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.ttf",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.woff",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.woff2",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.eot",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.svg",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.ttf",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.woff",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.woff2",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.eot",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.ttf",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.woff",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.woff2",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/i18n/es.json",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-128x128.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-144x144.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-152x152.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-192x192.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-384x384.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-512x512.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-72x72.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-96x96.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/img/404.png",
+        "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/img/logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/1-es2015.e1c16c178d755bcbfbb7.js": "ca0f5f18474852295e53670d430695a07ea88d26",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/1-es5.e1c16c178d755bcbfbb7.js": "05ce5e18de635d8c343d1f20c50078db5e36a204",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/6-es2015.9f5db024f18614ff51e8.js": "3c2a31be5e49c28d4def5b6d263cdd5a841dd2ad",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/6-es5.9f5db024f18614ff51e8.js": "56a4654a5c1951217664fbb94f1ccb89b582c867",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/7-es2015.3a96c2a1f11ad1a960ac.js": "c7f28971c56880278b24d2ae83397533818838a8",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/7-es5.3a96c2a1f11ad1a960ac.js": "1360af5ae00e32ae735c2613f2209eac10cf515b",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/8-es2015.49d24c3d7bf0a43c8dfa.js": "73c1fbbe4a8ca9762266946971c00490dfce5b27",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/8-es5.49d24c3d7bf0a43c8dfa.js": "edf127ad80f485f41fcf2dd17a4dfcf3a2b68912",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/9-es2015.ab9a6bf4e435047d4aed.js": "dcb691e6f7b3ed499ffac79c197ad5cf9068ddc1",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/9-es5.ab9a6bf4e435047d4aed.js": "98a37c802c46214356ac7f669840fec8ebeabd3f",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.eot": "a2ea1f78ab2d3d5acdcff8d781b9555b653e5ad0",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.svg": "b49d1c678101eba6b17e1b1292f78f4cdc5a4365",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.ttf": "8be0b3f0632de7332fee1e5c2d8c154bceb020ce",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.woff": "a26c86418618cf4ddede817b79de8282e9a85bd6",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-brands-400.woff2": "bcc709eec2bf2d00fcdd5bdf1ffbec5a8b7eec89",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.eot": "0ff9a330c3de3b7a9d5e1b59a1020e946e5b2a6c",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.svg": "c889d0f7dae7d4932766ac42f2c2ecca7013f5ec",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.ttf": "88695596b784412b9fb86f89cb5f3fba2ffb9630",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.woff": "c7469350dbda3ea7a17704c224a3c4c714b0a268",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-regular-400.woff2": "d0b9db0b86e186debcd2526fe9facd9fc57c9e6c",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.eot": "a381d7a42bf4d4d033388d720c07a9922e4a25ed",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.svg": "c316bb413bbfa49435b0e8176f90e46fbf96a5c8",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.ttf": "1fdeaeff02d4dddc49ed46bae6c8dc90e40057f8",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.woff": "3459a628655a798c81b8359f5e2e1d6a7c117576",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/fontawesome/fa-solid-900.woff2": "6de203af57e5be1a565bce963703d96b0bf1c156",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/fonts/material-design-icons/MaterialIcons-Regular.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/i18n/es.json": "a29638b03e1d018903b03e18dac3a508778553f2",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-128x128.png": "64b548b97eca15fab25372285b8e8e6a97257d50",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-144x144.png": "b89e75760c3e76b0e8a4b7da1cc97b388d65e982",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-152x152.png": "3a406be8ccfcf2ab3416e40f227a83cbc3bfb9f8",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-192x192.png": "c4b242654c7888286f53ef53b79db30cf4ce2fc6",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-384x384.png": "2edcd192b28ba2bfb6833276e6faf36a5c5fa186",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-512x512.png": "329adb3d4b6bfb45c39e9b3a140d669fb29f739c",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-72x72.png": "bd7cafc38a34301e23a55639fb1df66be9ccbb7f",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/icons/icon-96x96.png": "56c084768e383464a83db924f3b096e59e7ee32d",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/img/404.png": "97026351fd6372c348d69a88399006fe1dedc518",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/assets/img/logo.svg": "310729e27f0640f39700b053c6abda32201046ee",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/favicon.ico": "3659f004f14c811cb87b9c826b4d3996f1f606ad",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/index.html": "ee9a79ad1b82c81390c547bbf177aac368817ebc",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/main-es2015.41706262c23aa87354dd.js": "e40eae2dc1b37d70b00aee627c365dc66c364d45",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/main-es5.41706262c23aa87354dd.js": "a4382b8f0b9fd049782f4a7c7e7ebc0a25ebb629",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/manifest.webmanifest": "242bc74a0b812a076a9c76fa421bbbf4e12ab65e",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/polyfills-es2015.698ed6332ccbe18312cf.js": "b7c6ee8b755acf1535a7e7da51bfc0c4b8f11c6c",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/polyfills-es5.1249c73096b30258d98f.js": "520125145b3e6609b805fe514be61fd015972b25",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/runtime-es2015.f4481762a578f3eb130c.js": "52d4a5875f8f6a4f71b64a84ccf16954e5f67a57",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/runtime-es5.f4481762a578f3eb130c.js": "1d1efd478c878e564d2602213933f58c2b92a87b",
+    "/PoC-Angular-PWA-NgRx-Entity-Formly-RouterState/styles.1d69dd4bd938666bfd93.css": "e0e2e4d472aff1127ea8999e023e4f3ef263fde0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
